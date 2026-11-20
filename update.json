@@ -1,1 +1,7 @@
-{"version":"1.0.0","url":"https://github.com/Ray0121/moletool/releases/download/v1.0.0/MoleTool.exe","sha256":"56909d8643ba73e36789d768cf4e04696afff7eb51be16b25c2951dc846794d4","size":77133893,"notes":"第一版餐廳自動做菜 + 地圖直飛授權自動更新"}
+{
+  "url": "https://github.com/Ray0121/moletool/releases/download/v1.0.4/MoleTool.exe",
+  "size": 77141237,
+  "notes": "1.0.4：修正視窗排列與更新按鈕、回餐廳不拉到最前面、爐灶紀錄尺寸不同會等比例換算、認菜支援多縮放、烹調時間會自動校正；移除不干擾模式／輪班等選項",
+  "version": "1.0.4",
+  "sha256": "aaa057c66925e8de7a4ba78b3a5002e3ed0a8a667dcf614c2dc5b59bc1cf1321"
+}
