@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/Ray0121/moletool/releases/download/v1.0.4/MoleTool.exe",
-  "size": 77141237,
-  "notes": "1.0.4：修正視窗排列與更新按鈕、回餐廳不拉到最前面、爐灶紀錄尺寸不同會等比例換算、認菜支援多縮放、烹調時間會自動校正；移除不干擾模式／輪班等選項",
-  "version": "1.0.4",
-  "sha256": "aaa057c66925e8de7a4ba78b3a5002e3ed0a8a667dcf614c2dc5b59bc1cf1321"
+  "url": "https://github.com/Ray0121/moletool/releases/download/v1.0.5/MoleTool.exe",
+  "size": 77106878,
+  "notes": "1.0.5：煮菜點到自己的小摩爾／拉姆跳出名片時，會自動按右上角 X 關掉再繼續（不看名片長相，任何帳號都適用）；食譜開在別頁（含第 9 頁）也會翻回第 1 頁再一頁頁找到選的菜，找到就記住頁數下次直接翻",
+  "version": "1.0.5",
+  "sha256": "31438fa136329eaaa11c3ace232480634abeac206a510a63e7df8d6b9669ae2c"
 }
